@@ -1,4 +1,4 @@
-package com.problem.solving.service.Impl;
+package com.problem.solving.two.pointers;
 
 import java.util.Arrays;
 
