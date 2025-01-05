@@ -1,4 +1,4 @@
-package com.problem.solving.two.pointers;
+package com.problem.solving.twopointers.samedirection;
 
 import java.util.Arrays;
 

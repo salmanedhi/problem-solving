@@ -1,4 +1,4 @@
-package com.problem.solving.two.pointers;
+package com.problem.solving.twopointers.oppositedirection;
 
 /**
  * Determine whether a string is a palindrome, ignoring non-alphanumeric characters and case. Examples:

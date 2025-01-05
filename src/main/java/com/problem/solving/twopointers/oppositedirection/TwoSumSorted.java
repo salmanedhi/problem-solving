@@ -1,4 +1,4 @@
-package com.problem.solving.two.pointers;
+package com.problem.solving.twopointers.oppositedirection;
 
 /**
  * Given an array of integers sorted in ascending order, find two numbers that add up to a given target.

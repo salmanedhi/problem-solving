@@ -1,4 +1,4 @@
-package com.problem.solving.two.pointers;
+package com.problem.solving.twopointers.oppositedirection;
 
 /**
  * Find the middle node of a linked list.
